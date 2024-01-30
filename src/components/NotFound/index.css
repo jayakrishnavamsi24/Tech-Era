@@ -1,0 +1,23 @@
+.not-found-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 80vh;
+}
+
+.not-found-image {
+  width: 300px;
+}
+
+.page-not-found {
+  margin-bottom: -5px;
+  font-size: 25px;
+  color: #475569;
+  font-weight: 500;
+}
+
+.message-not-found {
+  color: #64748b;
+  font-size: 14px;
+}
